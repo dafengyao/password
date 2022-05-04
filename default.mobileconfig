@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>123456</string>
+			<string>13811267661</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,17 +32,17 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.6.242</string>
+			<string>192.168.50.2</string>
 			<key>ProxyServerPort</key>
-			<integer>7890</integer>
+			<integer>24</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>请输入wifi名称</string>
+			<string>YAO-5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>悟空的代理文件</string>
+	<string>老姚代理</string>
 	<key>PayloadIdentifier</key>
 	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
 	<key>PayloadRemovalDisallowed</key>
